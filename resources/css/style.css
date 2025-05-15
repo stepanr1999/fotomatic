@@ -413,7 +413,6 @@ header .mobile {
     width: 100%;
     flex-flow:column;
     padding:0;
-    padding-bottom: 2rem;
     justify-content: center;
     align-items: center;
   }
@@ -421,7 +420,7 @@ header .mobile {
   .feature {
     width: 100%;
     margin: 0;
-    padding: 1.25rem 1rem 0rem 1rem;
+    padding: 1.25rem 1rem 2rem 1rem;
   }
 }
 
